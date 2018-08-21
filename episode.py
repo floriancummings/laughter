@@ -170,5 +170,5 @@ def start_single(path,file):
     print("Done......")
     
     
-start_all("C:\\Users\\Florian\\Documents\\Session5\\CLEAN\\")
+start_all(path_to_file)
 
